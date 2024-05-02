@@ -1,4 +1,3 @@
-<h1 align="center">Rafael Medeiros</h1>
 <div align="left">
      <h3 align="center">Software Engineer</h3>
       <div align='center' style='display:inline-block;margin-bottom:15px'>
