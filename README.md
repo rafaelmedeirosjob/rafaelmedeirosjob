@@ -12,7 +12,7 @@
 <div class="profile" align="center">
   <p>🧑🏻‍🎓 Graduated in  Systems of Internet from Instituto Federal da Paraíba</p>
   <b><p>9 years of experience with development</p></b>
-  <p> I am currently specializing in Next.js and tRPC development.</p>
+  <p> I am currently specializing in Next.js, React and tRPC development.</p>
 </div>
 
 <div align="center">
